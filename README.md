@@ -1,0 +1,1 @@
+# redditech-resource-manager
